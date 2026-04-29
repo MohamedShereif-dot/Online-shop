@@ -1,12 +1,11 @@
-# React + Vite
-
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
-
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
-
-## Expanding the ESLint configuration
-
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+E-Commerce Platform | React, Redux Toolkit, Tailwind CSS, React Router, Axios
+− Developed a full-featured e-commerce platform with comprehensive shopping capabilities from product discovery to order completion.
+− Implemented secure user registration and login with JWT authentication and protected route access.
+− Built product browsing with category filtering, advanced search, and sorting functionality, alongside interactive product details featuring
+image sliders, user reviews, and ratings.
+− Created an interactive shopping cart with persistent storage supporting add/remove items, real-time quantity adjustment, and wishlist
+functionality for saving favorite products.
+− Integrated a complete checkout system with two payment methods: online credit card payments and Cash on Delivery (COD) option.
+− Delivered a fully responsive design for all devices with smooth animations and optimized loading states.
+Tech Stack: React.JS, Redux Toolkit, Vite, React Router DOM, React Query, Context API, Axios, Formik, Yup, Tailwind CSS, Font Awesome,
+React Slick, React Hot Toast, React Loader Spinner.
